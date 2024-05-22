@@ -1,0 +1,25 @@
+# Entorno Virtual
+venv/
+env/
+
+# Archivos de Configuración del Editor
+.vscode/
+
+# Archivos de Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Log y de Datos
+*.log
+*.sqlite3
+
+# Archivos de Dependencias
+pip-wheel-metadata/
+
+# Archivos de Entorno y Secretos
+.env
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
